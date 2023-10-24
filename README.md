@@ -10,3 +10,7 @@ Deseja-se implementar a estrutura de software que sustente um sistema de logins 
 
 # Diagrama
 
+<div align="center">
+  <img src="src/assets/images/diagrama_software_seu_ingresso.png" alt="Diagrama de Software" />
+  <p>Legenda: Diagrama da estrutura do software.</p>
+</div>
